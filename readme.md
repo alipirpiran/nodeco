@@ -1,4 +1,4 @@
-# System-Monitor
+# nodeco
 
 <p align="center">
  <a href="https://github.com/alipirpiran/nodeco/blob/master/LICENSE">
