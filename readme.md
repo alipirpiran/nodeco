@@ -32,7 +32,7 @@ Eg:
 
     nodeco index.js -s MySecret -o output
 
-## Run compile project
+## Run compiled project
     node output/index.js
 
 ## Notes
