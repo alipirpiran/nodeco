@@ -27,7 +27,7 @@ function run(dir) {
     // }
 
     const env = fs.readFileSync(Path.join(base_dir, '..', '.env'));
-    const { secret } = require('dotenv').parse(env);
+    const { nodeco_secret: secret } = require('dotenv').parse(env);
 
     const indexFilePath = Path.join(dir, 'index.jsco');
     if (!fs.existsSync(indexFilePath)) {
