@@ -1,0 +1,24 @@
+{
+    "name": "nodeco",
+    "version": "1.0.1",
+    "description": "compile and encrypt js project to one file",
+    "main": "index.js",
+    "bin": {
+        "nodeco": "./cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "compiler",
+        "compile",
+        "encrypt"
+    ],
+    "author": "Ali Pirpiran <alipirpiran@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^5.1.0",
+        "dotenv": "^8.2.0",
+        "fs-extra": "^9.0.0"
+    }
+}
