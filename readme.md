@@ -15,6 +15,11 @@
  
  nodeco, command-line tool to compile, encrypt node.js project.
  
+ Compile project and encrypt project into single file: src/index.jsco  
+ Run compiled project with index.js located in output directory. index.js get secret from .env file.  
+ if you have .env file in your project root it copy into output dir. nodeco secret append to it.  
+ 
+ 
 # Usage
 
 ## Instalation
