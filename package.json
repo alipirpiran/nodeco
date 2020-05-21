@@ -17,6 +17,7 @@
     "author": "Ali Pirpiran <alipirpiran@gmail.com>",
     "license": "MIT",
     "dependencies": {
+        "@zeit/ncc": "^0.22.2",
         "commander": "^5.1.0",
         "dotenv": "^8.2.0",
         "fs-extra": "^9.0.0"
