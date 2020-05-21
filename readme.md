@@ -44,7 +44,7 @@ Eg:
 * after running command it creates output directory (defaults to output).
 
 ``` bash
-
+output
 ├── index.js
 └── src
     ├── index.jsco
